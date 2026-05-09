@@ -1,0 +1,36 @@
+# Dependencies
+node_modules
+
+# Next.js build output
+.next
+out
+
+# Environment variables — never commit these
+.env
+.env.local
+.env*.local
+
+# Vercel
+.vercel
+
+# Prisma generated client
+/src/generated/prisma
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Local tool configs — machine-specific, not project source
+.mcp.json
+.claude/
+.automatic/
+.agents/
+
+# TypeScript incremental build cache
+tsconfig.tsbuildinfo
+
+# Plans and internal working documents
+plans/
+
+# Reference docs (binary assets, not source)
+docs/
