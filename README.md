@@ -2,7 +2,7 @@
 
 A proof-of-concept prototype for a Defence Human Resources Information System (HRIS), demonstrating a role-aware request management workflow for military network account operations.
 
-**Live demo:** https://mams-adamatteia-1090s-projects.vercel.app
+**Live demo:** https://mams-demo.vercel.app
 
 ---
 

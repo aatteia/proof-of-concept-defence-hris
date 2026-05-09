@@ -48,7 +48,7 @@ A staff officer with full system access. Administrators can submit requests on b
 
 ## How to navigate the prototype
 
-The prototype is accessible at: **https://mams-adamatteia-1090s-projects.vercel.app**
+The prototype is accessible at: **https://mams-demo.vercel.app**
 
 ### Starting the demo
 
