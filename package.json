@@ -7,6 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "install:hooks": "bash scripts/install-hooks.sh",
+    "prepare": "bash scripts/install-hooks.sh",
     "db:push": "prisma db push",
     "db:studio": "prisma studio",
     "stripe:listen": "stripe listen --forward-to localhost:3000/api/webhooks/stripe"
